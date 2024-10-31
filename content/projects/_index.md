@@ -5,5 +5,5 @@ cascade:
   showReadingTime: true
 ---
 {{<lead>}}
-Below are a couple of my projects.
+I'll add more projects here as I get inspired to write articles about them (and have the time).
 {{< /lead >}}
