@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+title = "Jacob's Site"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["about", "posts"]
+  # description = "My awesome website"
+
+[params.author]
+	name = "Jacob Cohen"
+	image = "img/author.png"
+	headline = "Computer systems Ph.D. student with Dr. Jakob Eriksson at the University of Illinois, Chicago."
+	bio = "Computer systems Ph.D. student with Dr. Jakob Eriksson at the University of Illinois, Chicago."
+	links = [
+		{ github = "https://github.com/CJacob314" },
+		{ linkedin = "https://linkedin.com/in/CJacob314" },
+		{ email = "mailto:jacob@jacobcohen.info" },
+	]
+
