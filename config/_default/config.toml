@@ -7,7 +7,6 @@ defaultContentLanguage = "en"
 
 title = "Jacob's Site"
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 baseURL = "https://jacobcohen.info/"
@@ -15,4 +14,7 @@ languageCode = "en"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+pagerSize = 10
 

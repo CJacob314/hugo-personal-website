@@ -13,8 +13,8 @@ title = "Jacob's Site"
 [params.author]
 	name = "Jacob Cohen"
 	image = "img/author.png"
-	headline = "Computer systems Ph.D. student with Dr. Jakob Eriksson at the University of Illinois, Chicago."
-	bio = "Computer systems Ph.D. student with Dr. Jakob Eriksson at the University of Illinois, Chicago."
+	headline = "Computer systems Ph.D. student with [Dr. Jakob Eriksson](https://www.cs.uic.edu/~jakob/home/index.html) at the University of Illinois, Chicago."
+	bio = "Computer systems Ph.D. student with [Dr. Jakob Eriksson](https://www.cs.uic.edu/~jakob/home/index.html) at the University of Illinois, Chicago."
 	links = [
 		{ github = "https://github.com/CJacob314" },
 		{ linkedin = "https://linkedin.com/in/CJacob314" },
